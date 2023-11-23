@@ -6,7 +6,7 @@ author: ["Prof. Name 1","Prof. Name 2"]
 description: "This undergraduate course presents many new things." 
 summary: "This undergraduate course presents various methods and many results." 
 cover:
-    image: "course2.png"
+    image: "teaching2.png"
     alt: "Figure caption"
     relative: false
 editPost:

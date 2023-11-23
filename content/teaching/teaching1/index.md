@@ -6,7 +6,7 @@ author: "Prof. Name"
 description: "This graduate course presents things." 
 summary: "This graduate course presents various methods and results." 
 cover:
-    image: "course1.png"
+    image: "teaching1.png"
     alt: "Figure caption"
     relative: false
 editPost:

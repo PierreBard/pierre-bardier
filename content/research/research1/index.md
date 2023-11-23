@@ -6,7 +6,7 @@ author: "Author Name"
 description: "This paper shows things. Published in Journal Name, 2012." 
 summary: "This paper shows things using various techniques and data." 
 cover:
-    image: "paper1.png"
+    image: "research1.png"
     alt: "Image caption"
     relative: false
 editPost:
@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
++ [Paper](research1.pdf)
 + [Online appendix](appendix1.pdf)
 + [Code and data](https://github.com/pmichaillat/job-rationing)
 
@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Figure X: Figure caption
 
-![](paper1.png)
+![](research1.png)
 
 ---
 

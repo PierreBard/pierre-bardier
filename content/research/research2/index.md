@@ -6,7 +6,7 @@ author: ["Author Name 1", "Author Name 2"]
 description: "This paper shows other things. Published in Journal Name, 2015." 
 summary: "This paper shows other things using other techniques and different data." 
 cover:
-    image: "paper2.png"
+    image: "research2.png"
     alt: "Image caption"
     relative: false
 editPost:
@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
++ [Paper](research2.pdf)
 + [Online appendix](appendix2.pdf)
 + [Code and data](https://github.com/pmichaillat/unemployment-gap)
 
@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Figure X: Figure caption
 
-![](paper2.png)
+![](research2.png)
 
 ---
 

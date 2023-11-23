@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://olivice.github.io"
+title: Pierre Bardier
 paginate: 20
 theme: PaperMod
 
@@ -11,23 +11,16 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 1
-        - name: Courses
-          url: courses/
+        - name: Teaching
+          url: teaching/
           weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I am a Ph.D student in theoretical economics at Paris School of Economics and Ecole Normale Supérieure de Paris"
+    author: Pierre Bardier
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,44 +43,31 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Pierre Bardier
+          subtitle: "
+          I am a Ph.D student in **theoretical economics** at **[Paris School of Economics](https://www.parisschoolofeconomics.eu/en/)** and **[Ecole Normale Supérieure de Paris](https://www.ens.psl.eu/)**. My research spans the theory of economic design, with a specific focus on fair division, of voting, of social choice and welfare economics, and of individual decision making. I am extremely happy to work under the supervision of **[Marc Fleurbaey](https://sites.google.com/site/marcfleurbaey/Home)**.<br><br>
+          Before my Ph.D, I was studying at **[Ecole Normale Supérieure de Paris](https://www.ens.psl.eu/)** for 5 years, during which I completed in particular a *master in economics* at **[Paris School of Economics](https://www.parisschoolofeconomics.eu/en/)** and a *master in mathematics* at **[Paris-I-Panthéon-Sorbonne](https://international.pantheonsorbonne.fr/en/welcome-paris-1-pantheon-sorbonne)**.
+          "
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Prof. Name
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: Research
+              url: research/
+            - name: Teaching
+              url: teaching/
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:pierre.bardier@ens.psl.eu
+        - name: Arxiv
+          url: https://arxiv.org/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://scholar.google.com/
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/pierre-bardier-a817b3228/
 
     assets:
         disableHLJS: true
@@ -96,7 +76,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Pierre Bardier"
       icon: favicon.ico
       iconHeight: 18
 
