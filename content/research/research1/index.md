@@ -1,18 +1,13 @@
 ---
-title: "Paper Title 1" 
-date: 2012-06-01
+title: "Research Paper 1"
 tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
+author: "Pierre Bardier"
 description: "This paper shows things. Published in Journal Name, 2012." 
 summary: "This paper shows things using various techniques and data." 
 cover:
     image: "research1.png"
     alt: "Image caption"
     relative: false
-editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
-    Text: "Journal Name"
-
 ---
 
 ---
@@ -21,7 +16,6 @@ editPost:
 
 + [Paper](research1.pdf)
 + [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing)
 
 ---
 

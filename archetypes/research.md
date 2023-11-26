@@ -1,9 +1,7 @@
 ---
 title: "Paper Title (less than 70 characters)" 
 date: 2012-06-01
-url: /paper/
-aliases: 
-    - /old_url.html
+url: /1/
 tags: ["keyword 1","keyword 2"]
 author: ["Paper Author 1", "Paper Author 2"]
 description: "Paper description for search engines (less than 155 characters)" 
@@ -13,8 +11,8 @@ cover:
     alt: "Figure from paper"
     relative: false
 editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "Journal/Repository Name"
+  URL: "https://doi.org/10.1257/aer.102.4.1721"
+  Text: "American Economic Review"
 
 ---
 
