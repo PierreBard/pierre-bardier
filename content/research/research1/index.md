@@ -1,11 +1,11 @@
 ---
-title: "Research Paper 1"
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Pierre Bardier"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+title: "Unanimity of two-selves in decision making"
+tags: ["Decision theory","Incomplete preferences","Multiple selves","Non-obvious manipulability"]
+author: "Pierre Bardier, Bach Dong-Xuan, Van-Quy Nguyen"
+description: "Wrking paper" 
+summary: "A new type of incomplete preferences under uncertainty" 
 cover:
-    image: "research1.png"
+    image: "picture dual self preference.png"
     alt: "Image caption"
     relative: false
 ---
@@ -14,44 +14,11 @@ cover:
 
 ##### Download
 
-+ [Paper](research1.pdf)
-+ [Online appendix](appendix1.pdf)
++ Unanimity of two-selves in decision making.pdf
+
 
 ---
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-##### Figure X: Figure caption
-
-![](research1.png)
-
----
-
-##### Citation
-
-Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
-
-```BibTeX
-@article{AAYY,
-author = {Author},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
-```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Dissertation title](https://escholarship.org/uc/item/7jr3m96r) – PhD dissertation on which this paper is based.
-+ [Column title](https://cep.lse.ac.uk/pubs/download/cp365.pdf) – Nontechnical column describing the paper.
-
+We propose a new model of incomplete preferences under uncertainty, which we call *unanimous dual-self preferences*. Act $f$ is considered more desirable than act $g$ when, and only when, both the evaluation of an optimistic self, computed as the welfare level attained in a best-case scenario, and that of a pessimistic self, computed as the welfare level attained in a worst-case scenario, rank $f$ above $g$. Our comparison criterion involves multiple priors, as best and worst cases are determined among sets of probability distributions, and is, generically, less conservative than *Bewley preferences* and *twofold multi-prior preferences*, the two ambiguity models that are closest to ours.

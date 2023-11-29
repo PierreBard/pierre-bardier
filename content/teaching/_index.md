@@ -12,7 +12,7 @@ description: ""
 
 <br>
 
-* **Lectures: introduction to microeconomics** for students preparing national civil service competitive exams [(Classe Talents Paris I-ENS).](https://cipcea.pantheonsorbonne.fr/prepena-paris-1-ens) <br>
+* **Lectures: introduction to microeconomics** for students preparing national civil service competitive exams [*(Classe Talents Paris I-ENS)*.](https://cipcea.pantheonsorbonne.fr/prepena-paris-1-ens) <br>
   Semester: Fall 2022. <br>
   
 
