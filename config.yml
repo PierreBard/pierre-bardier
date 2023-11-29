@@ -75,10 +75,10 @@ params:
     socialIcons:
         - name: CV
           url: cv.pdf
-        - name: Google Scholar
-          url: https://scholar.google.com/
-        - name: Arxiv
-          url: https://arxiv.org/
+        #- name: Google Scholar
+          #url: https://scholar.google.com/
+        #- name: Arxiv
+        #  url: https://arxiv.org/
         - name: LinkedIn
           url: https://www.linkedin.com/in/pierre-bardier-a817b3228/
 
