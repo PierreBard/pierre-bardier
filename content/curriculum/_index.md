@@ -1,45 +1,23 @@
 ---
-title: "Teaching"
+title: "Curriculum"
 description: ""
 ---
 
+## 2021--present: Ph.D in theoretical economics at PSE and ENS, under the supervision of Marc Fleurbaey
 
-
-I got the opportunity to work as TA for some of the best instructors of CS department, both at Purdue University and Texas A&M University. I was TA for several undergraduate Computer Science classes where I have met and helped many wonderful students.
-<br>
-<br>
+* **Aug--Dec 2023: Scientific visiting** in the department of economics of the university of Rochester, at the invitation of Professor William Thomson. <br>
 
 ---
-## CURRICULUM TODO
+## 2016--2021: Ecole Normale Supérieure de Paris
 
-* **CS 101: Digital Literacy** <br>
-  Sessions: Fall'21, Spring'22, Fall'22, Spring'23 (**Head TA**), Fall'23 (**Head TA**) <br>
-  Instructors: [Dr. George Adams](https://www.cs.purdue.edu/people/faculty/gba.html) & [Xiaojin Liu](https://www.cs.purdue.edu/people/faculty/liu218.html)
+* **2021: Degree of Ecole Normale Supérieure, major in economics.** <br>
 
-<br>
+* **2020: Master's degree in mathematics** at Paris I. <br>
 
-* **CS 448: Introduction to Relational Database Management Systems** <br>
-  Session: Spring'21 <br>
-  Instructor: [Dr. Chris Clifton](https://www.cs.purdue.edu/homes/clifton/)
+* **2019: Master's degree in economics** at ENS and PSE. <br>
 
+* **2017: Bachelor's degree in economics** at ENS and Paris I. <br>
 
----
-## Texas A&M University
-
-* **CSCE 445: Computers and New Media** <br>
-  Session: Fall'19 <br>
-  Instructor: [Dr. Richard Furuta](https://engineering.tamu.edu/cse/profiles/rfuruta.html)
-
-<br>
-
-* **CSCE 121: Introduction to Programming Design and Concepts** <br>
-  Session: Summer'19 <br>
-  Instructor: [Dr. J. Michael Moore](https://engineering.tamu.edu/cse/profiles/moore-j-michael.html)
-
-<br>
-
-* **CSCE 221: Data Structure and Algorithms** <br>
-  Sessions: Spring'19 & Fall'18 <br>
-  Instructor: [Dr. Teresa Leyk](https://engineering.tamu.edu/cse/profiles/tleyk.html)  &  [Dr. Aakash Tyagi](https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html)
-
-<br>
+## 2013--2016: Classes Préparatoires B/L, Lycée Montaigne de Bordeaux
+Intensive courses in liberal arts (mathematics, social sciences and
+humanities) preparing the entrance exams to the top French schools.
