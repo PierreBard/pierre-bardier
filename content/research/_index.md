@@ -1,4 +1,4 @@
 ---
 title: "Research"
-description: "Preprints and articles on this website."
+# description: "Preprints and articles on this website."
 ---

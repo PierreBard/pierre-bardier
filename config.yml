@@ -17,15 +17,15 @@ menu:
         - name: Teaching
           url: teaching/
           weight: 2
-       # - name: Events
-        #  url: events/
-       #   weight: 3
+        - name: Events
+          url: events/
+          weight: 3
         - name: Curriculum
           url: curriculum/
-          weight: 3
+          weight: 4
         - name: Contact
           url: contact/
-          weight: 4
+          weight: 5
 
 params:
     description: "I am a Ph.D student in theoretical economics at Paris School of Economics and Ecole Normale Supérieure de Paris"
@@ -66,21 +66,21 @@ params:
               url: research/
             - name: Teaching
               url: teaching/
+            - name: Events
+              url: events/
             - name: Curriculum
               url: curriculum/
             - name: Contact
               url: contact/
-            #-name: Events
-            #  url: events/
-   # socialIcons:
-       # - name: CV
-       #   url: cv.pdf
+    socialIcons:
+            - name: CV
+              url: CV June 2024.pdf
        # - name: Google Scholar
         #  url: https://scholar.google.com/
         #- name: Arxiv
        #   url: https://arxiv.org/
-       # - name: LinkedIn
-       #   url: https://www.linkedin.com/in/pierre-bardier-a817b3228/
+            - name: LinkedIn
+              url: https://www.linkedin.com/in/pierre-bardier-a817b3228/
 
     assets:
         disableHLJS: true

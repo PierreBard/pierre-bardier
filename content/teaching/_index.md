@@ -26,7 +26,7 @@ description: ""
 ## Paris-I-Panthéon-Sorbonne (Paris I)
 
 * **Tutorials in organisational economics** (in English) for students in their last year of Bsc in economics. <br>
-  Semester: Fall 2022. <br>
+  Semester: Spring 2022. <br>
   Instructor: Lise Rochaix.
 
 <br>
