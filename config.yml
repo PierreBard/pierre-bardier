@@ -73,7 +73,6 @@ params:
             - name: Contact
               url: contact/
     socialIcons:
-<<<<<<< HEAD
             - name: CV
               url: CV June 2024.pdf
        # - name: Google Scholar
@@ -82,16 +81,6 @@ params:
        #   url: https://arxiv.org/
             - name: LinkedIn
               url: https://www.linkedin.com/in/pierre-bardier-a817b3228/
-=======
-        - name: CV
-          url: cv.pdf
-        #- name: Google Scholar
-          #url: https://scholar.google.com/
-        #- name: Arxiv
-        #  url: https://arxiv.org/
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/pierre-bardier-a817b3228/
->>>>>>> 8d954c7f6d77409224b599b306c07de25fecdf57
 
     assets:
         disableHLJS: true
