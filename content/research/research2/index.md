@@ -5,7 +5,7 @@ author: "Pierre Bardier"
 description: "Working paper" 
 summary: "A notion of degree of satisfaction of axioms, a criterion to compare rules, a measure of axioms' compatibility." 
 cover:
-    image: "/research2/picture degree.png"
+    image: "/picture degree.png"
     alt: "Image caption"
     relative: false
 ---
