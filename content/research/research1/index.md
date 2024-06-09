@@ -8,6 +8,9 @@ cover:
     image: "/picture dual self preferences.png"
     alt: "Image caption"
     relative: false
+aliases:
+  - /picture dual self preferences.png
+  - /Paper1.pdf
 ---
 
 ##### Download
