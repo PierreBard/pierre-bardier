@@ -5,32 +5,40 @@
     <link>https://olivice.github.io/tags/</link>
     <description>Recent content in Tags on Pierre Bardier</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://olivice.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://olivice.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>keyword 1</title>
-      <link>https://olivice.github.io/tags/keyword-1/</link>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <title>Decision theory</title>
+      <link>https://olivice.github.io/tags/decision-theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://olivice.github.io/tags/keyword-1/</guid>
+      <guid>https://olivice.github.io/tags/decision-theory/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>keyword 2</title>
-      <link>https://olivice.github.io/tags/keyword-2/</link>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <title>Incomplete preferences</title>
+      <link>https://olivice.github.io/tags/incomplete-preferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://olivice.github.io/tags/keyword-2/</guid>
+      <guid>https://olivice.github.io/tags/incomplete-preferences/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>keyword 3</title>
-      <link>https://olivice.github.io/tags/keyword-3/</link>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <title>Multiple selves</title>
+      <link>https://olivice.github.io/tags/multiple-selves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://olivice.github.io/tags/keyword-3/</guid>
+      <guid>https://olivice.github.io/tags/multiple-selves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-obvious manipulability</title>
+      <link>https://olivice.github.io/tags/non-obvious-manipulability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://olivice.github.io/tags/non-obvious-manipulability/</guid>
       <description></description>
     </item>
     
