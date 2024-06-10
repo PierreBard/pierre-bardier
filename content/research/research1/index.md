@@ -5,17 +5,16 @@ author: "Pierre Bardier, Bach Dong-Xuan, Van-Quy Nguyen"
 description: "Working paper" 
 summary: "A new type of incomplete preferences under uncertainty." 
 cover:
-    image: "/picture dual self preferences.png"
+    image: "picture dual self preferences.png"
     alt: "Image caption"
     relative: false
 aliases:
-  - /picture dual self preferences.png
-  - /Paper1.pdf
+  - Paper1.pdf
 ---
 
 ##### Download
 
-[**<mark class="blue">Paper</mark>**](/Paper1.pdf)
+[**<mark class="blue">Paper</mark>**](Paper1.pdf)
 
 ---
 
