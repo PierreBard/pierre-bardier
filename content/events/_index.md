@@ -5,7 +5,7 @@ description: ""
 
 * **Theory and Organisation seminar in the Paris School of Economics** <br>
   Date: June 2024. <br>
-  I had the pleasure to present [***<mark class="blue">Unanimity of two selves in decision making.</mark>***](/research1/Paper1.pdf)
+  I had the pleasure to present [***<mark class="blue">Unanimity of two selves in decision making.</mark>***](/research/research1/Paper1.pdf)
 
 <br>
 
@@ -24,7 +24,7 @@ description: ""
 
 * **Theory seminar in the department of economics of the University of Rochester** <br>
   Date: December 2023. <br>
-  I had the pleasure to present to present [***<mark class="blue">Unanimity of two selves in decision making.</mark>***](/research1/Paper1.pdf)
+  I had the pleasure to present to present [***<mark class="blue">Unanimity of two selves in decision making.</mark>***](/research/research1/Paper1.pdf)
 
 <br>
 
