@@ -3,16 +3,28 @@ title: "Events"
 description: ""
 ---
 
+* **Theory and Organisation seminar in the Paris School of Economics** <br>
+  Date: June 2024. <br>
+  I had the pleasure to present [***<mark class="blue">Unanimity of two selves in decision making.</mark>***](/research1/Paper1.pdf)
+
+<br>
+
+* **Seminar in the department of economics of the University of Caen** <br>
+  Date: June 2024. <br>
+  I had the pleasure to present ***<mark class="blue">The probability to satisfy axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
+
+<br>
+
 * **[Online Social Choice and Welfare seminar](https://sites.google.com/view/2021onlinescwseminars)** <br>
   Date: May 2024. <br>
-  I was invited to present ***<mark class="blue">The probability to satisfy axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
+  I had the pleasure to present ***<mark class="blue">The probability to satisfy axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
 
 <br>
 
 
 * **Theory seminar in the department of economics of the University of Rochester** <br>
   Date: December 2023. <br>
-  I was invited to present [***<mark class="blue">Unanimity of two selves in decision making.</mark>***](/research1/Paper1.pdf)
+  I had the pleasure to present to present [***<mark class="blue">Unanimity of two selves in decision making.</mark>***](/research1/Paper1.pdf)
 
 <br>
 
