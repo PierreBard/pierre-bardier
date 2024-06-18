@@ -9,12 +9,12 @@ cover:
     alt: "Image caption"
     relative: false
 aliases:
-  - Paper1.pdf
+  - Unanimity_of_two_selves_in_decision_making.pdf
 ---
 
 ##### Download
 
-[**<mark class="blue">Paper</mark>**](Paper1.pdf)
+[**<mark class="blue">Paper</mark>**](Unanimity_of_two_selves_in_decision_making.pdf)
 
 ---
 
