@@ -77,8 +77,8 @@ params:
               url: CV_June_2024.pdf
        # - name: Google Scholar
         #  url: https://scholar.google.com/
-        #- name: Arxiv
-       #   url: https://arxiv.org/
+            - name: Arxiv
+              url: https://arxiv.org/search/?query=Pierre+Bardier&searchtype=all&abstracts=show&order=-announced_date_first&size=50
             - name: LinkedIn
               url: https://www.linkedin.com/in/pierre-bardier-a817b3228/
 
