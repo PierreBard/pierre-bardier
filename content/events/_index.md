@@ -3,12 +3,11 @@ title: "Events"
 description: ""
 ---
 
-* **[Workshop on Collective Decisions and Economic Design in the Department of Foundations of Economic Analysis of the University of Alicante](https://sites.google.com/view/workshopcollectivedecisions)**
-<br>
+* **[Workshop on Collective Decisions and Economic Design in the Department of Foundations of Economic Analysis of the University of Alicante](https://sites.google.com/view/workshopcollectivedecisions)**<br>
   Date: June 2024. <br>
   I had the pleasure to present ***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
 
-  <br>
+<br>
 
 * **Theory and Organisation seminar in the Paris School of Economics** <br>
   Date: June 2024. <br>
