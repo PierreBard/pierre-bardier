@@ -3,6 +3,13 @@ title: "Events"
 description: ""
 ---
 
+* **[Workshop on Collective Decisions and Economic Design in the Department of Foundations of Economic Analysis of the University of Alicante](https://sites.google.com/view/workshopcollectivedecisions)**
+<br>
+  Date: June 2024. <br>
+  I had the pleasure to present ***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
+
+  <br>
+
 * **Theory and Organisation seminar in the Paris School of Economics** <br>
   Date: June 2024. <br>
   I had the pleasure to present [***<mark class="blue">Unanimity of two selves in decision making.</mark>***](../research/research1/Unanimity_of_two_selves_in_decision_making.pdf)
@@ -11,13 +18,13 @@ description: ""
 
 * **Seminar in the department of economics of the University of Caen** <br>
   Date: June 2024. <br>
-  I had the pleasure to present ***<mark class="blue">The probability to satisfy axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
+  I had the pleasure to present ***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
 
 <br>
 
 * **[Online Social Choice and Welfare seminar](https://sites.google.com/view/2021onlinescwseminars)** <br>
   Date: May 2024. <br>
-  I had the pleasure to present ***<mark class="blue">The probability to satisfy axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
+  I had the pleasure to present ***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
 
 <br>
 
@@ -34,7 +41,7 @@ description: ""
 Organiser: Ben-Gurion University of the Negev, Beersheba.
 <br>
 Date: July 2023.<br>
-I had the pleasure to present ***<mark class="blue">The probability to satisfy axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
+I had the pleasure to present ***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
 
 <br>
 
@@ -50,7 +57,7 @@ I had the pleasure to present ***<mark class="blue">The probability to satisfy a
   Organiser: Department of economics of the University of Girona.
   <br>
   Date: June 2023. <br>
-  I had the pleasure to present ***<mark class="blue">The probability to satisfy axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
+  I had the pleasure to present ***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
 
 <br>
 
@@ -61,5 +68,5 @@ I had the pleasure to present ***<mark class="blue">The probability to satisfy a
   Organiser: Autonomous Technological Institute of Mexico and College of Mexico.
   <br>
   Date: July 2022. <br>
-  I had the pleasure to present ***<mark class="blue">The probability to satisfy axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
+  I had the pleasure to present ***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design, voting and social choice.</mark>***
   <br>

@@ -1,5 +1,5 @@
 ---
-title: "The probability to satisfy axioms: a non-binary perspective on economic design, voting and social choice"
+title: "The probability of satisfying axioms: a non-binary perspective on economic design, voting and social choice"
 #tags: ["Decision theory","Incomplete preferences","Multiple selves","Non-obvious manipulability"]
 author: "Pierre Bardier"
 description: "Working paper" 
