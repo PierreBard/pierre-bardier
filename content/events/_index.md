@@ -6,7 +6,9 @@ description: ""
 * **[17th meeting of the Society for Social Choice and Welfare in Paris School of Economics](https://website-50514.eventmaker.io/en)** <br>
   Date: December 2023. <br>
   I had the pleasure to present [***<mark class="blue">Unanimity of two selves in decision making.</mark>***](../research/research1/Unanimity_of_two_selves_in_decision_making.pdf) <br>
-  I participated in the organisation of this event.
+  I participated in the organisation of this event, for the submission phase and for the construction of the scientific program.
+
+  <br>
 
 * **[Workshop on Collective Decisions and Economic Design in the Department of Foundations of Economic Analysis of the University of Alicante](https://sites.google.com/view/workshopcollectivedecisions)**<br>
   Date: June 2024. <br>
