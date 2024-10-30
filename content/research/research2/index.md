@@ -20,7 +20,7 @@ aliases:
 
 ##### Abstract
 
-We provide a formal framework accounting for a widespread idea in the theory of economic design%, voting and social choice: analytically established incompatibilities between given axioms should be qualified by the likelihood of their violation. We define the degree to which rules  satisfy an axiom, as well as several axioms, on the basis of a probability measure over the inputs of the rules.
+We provide a formal framework accounting for a widespread idea in the theory of economic design: analytically established incompatibilities between given axioms should be qualified by the likelihood of their violation. We define the degree to which rules  satisfy an axiom, as well as several axioms, on the basis of a probability measure over the inputs of the rules.
 
 Armed with this notion of degree, we propose and characterize:
 <ul>
