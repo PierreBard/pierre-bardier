@@ -1,6 +1,6 @@
 ---
-title: "The probability of satisfying axioms: a non-binary perspective on economic design, voting and social choice"
-#tags: ["Decision theory","Incomplete preferences","Multiple selves","Non-obvious manipulability"]
+title: "The probability of satisfying axioms: a non-binary perspective on economic design"
+tags: ["Degree of satisfaction", "Probability of satisfaction", "Ranking of rules", "Performance of rules", "Desirability of axioms", "Compatibility of axioms"]
 author: "Pierre Bardier"
 description: "Working paper" 
 summary: "A notion of degree of satisfaction of axioms, a criterion to compare rules, a measure of axioms' compatibility." 
@@ -8,18 +8,21 @@ cover:
     image: "picture degree.png"
     alt: "Image caption"
     relative: false
+aliases:
+  - The_probability_of_satisfying_axioms.pdf
 ---
 
 ##### Download
 
-**<mark class="blue">A working paper version is coming soon.</mark>**
+[**<mark class="blue">Paper</mark>**](The_probability_of_satisfying_axioms.pdf)
 
 ---
 
 ##### Abstract
 
-In the theory of economic design and voting, incompatibilities between axioms have given rise to a myriad of notions of the degree to which a given axiom is satisfied. However, these are, generally, model-and-axiom-specific. In contrast, this paper explores the potential of defining such a notion as the probability with which an axiom, as well as a set of axioms, is satisfied, without restricting the analysis to particular types of properties or problems. 
- 
-The formal framework we provide is consistent with the use of simulation models, which aim at assessing the empirical performance of rules but focus, in general, on a single axiom, of a particular type.
- 
-We propose and axiomatize a criterion to evaluate and compare the performance of rules given a set of axioms, based on two key components: the probabilities of satisfaction and the normative desirability of axioms, and, crucially, that of their combinations. Finally, we propose and axiomatize a criterion to measure axioms' compatibility between each other for a given rule, or a given family of rules, building on an analogy with cooperative game theory.
+We provide a formal framework accounting for a widespread idea in the theory of economic design%, voting and social choice: analytically established incompatibilities between given axioms should be qualified by the likelihood of their violation. We define the degree to which rules  satisfy an axiom, as well as several axioms, on the basis of a probability measure over the inputs of the rules.
+
+Armed with this notion of degree, we propose and characterize:
+<ul>
+<li>a criterion to evaluate and compare rules given a set of axioms, allowing the importance of each combination of axioms to differ, and</li>
+<li>a criterion to measure the compatibility between given axioms, building on a analogy with cooperative game theory.</li>
