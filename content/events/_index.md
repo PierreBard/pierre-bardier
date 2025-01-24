@@ -5,7 +5,7 @@ description: ""
 
 * **[17th meeting of the Society for Social Choice and Welfare in Paris School of Economics](https://website-50514.eventmaker.io/en)** <br>
   Date: July 2024. <br>
-  I had the pleasure to present [***<mark class="blue">Hoping for the best while preparing for the worst in the face of uncertainty: a new type of incomplete preferences.</mark>***](../research/research1/Hoping_for_the_best_while_preparing_for_the_worst.pdf) <br>
+  I had the pleasure to present [***<mark class="blue">Hoping for the best while preparing for the worst in the face of uncertainty: a new type of incomplete preferences.</mark>***](../research/research3/Hoping_for_the_best_while_preparing_for_the_worst.pdf) <br>
   I participated in the organisation of this event, for the submission phase and for the construction of the scientific program.
 
   <br>
@@ -18,7 +18,7 @@ description: ""
 
 * **Theory and Organisation seminar in the Paris School of Economics** <br>
   Date: June 2024. <br>
-  I had the pleasure to present [***<mark class="blue">Hoping for the best while preparing for the worst in the face of uncertainty: a new type of incomplete preferences.</mark>***](../research/research1/Hoping_for_the_best_while_preparing_for_the_worst.pdf)
+  I had the pleasure to present [***<mark class="blue">Hoping for the best while preparing for the worst in the face of uncertainty: a new type of incomplete preferences.</mark>***](../research/research3/Hoping_for_the_best_while_preparing_for_the_worst.pdf)
 
 <br>
 
@@ -36,7 +36,7 @@ description: ""
 
 * **Theory seminar in the department of economics of the University of Rochester** <br>
   Date: December 2023. <br>
-  I had the pleasure to present [***<mark class="blue">Hoping for the best while preparing for the worst in the face of uncertainty: a new type of incomplete preferences.</mark>***](../research/research1/Hoping_for_the_best_while_preparing_for_the_worst.pdf)
+  I had the pleasure to present [***<mark class="blue">Hoping for the best while preparing for the worst in the face of uncertainty: a new type of incomplete preferences.</mark>***](../research/research3/Hoping_for_the_best_while_preparing_for_the_worst.pdf)
 
 <br>
 
