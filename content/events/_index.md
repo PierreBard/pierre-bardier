@@ -3,6 +3,12 @@ title: "Events"
 description: ""
 ---
 
+* **Economic Theory Seminar in Karlsruhe Institute of Technology** <br>
+  Date: December 2024. <br>
+  I had the pleasure to present [***<mark class="blue">Hoping for the best while preparing for the worst in the face of uncertainty: a new type of incomplete preferences.</mark>***](../research/research3/Hoping_for_the_best_while_preparing_for_the_worst.pdf) <br>
+
+  <br>
+
 * **[17th meeting of the Society for Social Choice and Welfare in Paris School of Economics](https://website-50514.eventmaker.io/en)** <br>
   Date: July 2024. <br>
   I had the pleasure to present [***<mark class="blue">Hoping for the best while preparing for the worst in the face of uncertainty: a new type of incomplete preferences.</mark>***](../research/research3/Hoping_for_the_best_while_preparing_for_the_worst.pdf) <br>
@@ -16,15 +22,15 @@ description: ""
 
 <br>
 
-* **Theory and Organisation seminar in the Paris School of Economics** <br>
-  Date: June 2024. <br>
-  I had the pleasure to present [***<mark class="blue">Hoping for the best while preparing for the worst in the face of uncertainty: a new type of incomplete preferences.</mark>***](../research/research3/Hoping_for_the_best_while_preparing_for_the_worst.pdf)
-
-<br>
-
 * **Seminar in the department of economics of the University of Caen** <br>
   Date: June 2024. <br>
   I had the pleasure to present [***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design.</mark>***](../research/research2/The_probability_of_satisfying_axioms.pdf)
+
+<br>
+
+* **Theory and Organisation seminar in the Paris School of Economics** <br>
+  Date: June 2024. <br>
+  I had the pleasure to present [***<mark class="blue">Hoping for the best while preparing for the worst in the face of uncertainty: a new type of incomplete preferences.</mark>***](../research/research3/Hoping_for_the_best_while_preparing_for_the_worst.pdf)
 
 <br>
 
