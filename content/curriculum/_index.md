@@ -5,7 +5,7 @@ description: ""
 
 ## 2021--present: Ph.D in theoretical economics at [<mark class="blue">PSE</mark>](https://www.parisschoolofeconomics.eu/en/) and [<mark class="blue">ENS</mark>](https://www.ens.psl.eu/) under the supervision of [<mark class="blue">Marc Fleurbaey</mark>](https://sites.google.com/site/marcfleurbaey/Home)
 
-* **Aug--Dec 2023 and Oct--Nov 2024: Scientific visitings** in the department of economics of the [<span class="blueText">**University of Rochester,**</span>](https://www.sas.rochester.edu/eco/) at the invitation of Professor [<span class="blueText">**William Thomson.**</span>](https://sites.google.com/view/williamthomson) <br>
+* **Aug--Dec 2023 and Oct--Nov 2024: Two scientific visitings** in the department of economics of the [<span class="blueText">**University of Rochester,**</span>](https://www.sas.rochester.edu/eco/) at the invitation of Professor [<span class="blueText">**William Thomson.**</span>](https://sites.google.com/view/williamthomson) <br>
 
 ---
 ## 2016--2021: Ecole Normale Supérieure de Paris 
