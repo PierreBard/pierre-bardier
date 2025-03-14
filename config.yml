@@ -73,8 +73,8 @@ params:
             - name: Contact
               url: contact/
     socialIcons:
-            - name: CV
-              url: CV_June_2024.pdf
+       #    - name: CV
+         #     url: CV_June_2024.pdf
        # - name: Google Scholar
         #  url: https://scholar.google.com/
             - name: Arxiv
