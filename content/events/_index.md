@@ -3,6 +3,12 @@ title: "Events"
 description: ""
 ---
 
+* **Theory and Organisation seminar in the Paris School of Economics** <br>
+  Date: June 2025. <br>
+  I had the pleasure to present [***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design.</mark>***](../research/research2/The_probability_of_satisfying_axioms.pdf) 
+
+ <br>
+
 * **Economic Theory Seminar in Karlsruhe Institute of Technology** <br>
   Date: December 2024. <br>
   I had the pleasure to present [***<mark class="blue">Hoping for the best while preparing for the worst in the face of uncertainty: a new type of incomplete preferences.</mark>***](../research/research3/Hoping_for_the_best_while_preparing_for_the_worst.pdf) <br>
