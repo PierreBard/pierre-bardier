@@ -25,7 +25,7 @@ description: ""
 ## Université Paris Sciences et Lettres (PSL)
 
 * **Lecture courses in microeconomics: market failures** for two groups of students in their second year of the [*Cycle Pluridisciplinaire d'Études Supérieures (Parcours Economie, droit et société)*.](https://psl.eu/formation/cpes-psl-henri-IV) <br>
-  Semester: Spring 2025. <br>
+  Semesters: Spring 2025, Spring 2026. <br>
   
 
 ---
