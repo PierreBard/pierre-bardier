@@ -8,9 +8,9 @@ description: ""
 * Aug--Dec 2023 and Oct--Nov 2024: **Two scientific visitings** in the department of economics of the [<span class="blueText">**University of Rochester,**</span>](https://www.sas.rochester.edu/eco/) at the invitation of Professor [<span class="blueText">**William Thomson.**</span>](https://sites.google.com/view/williamthomson) <br>
 
 ---
-## 2016--2021: Ecole Normale Supérieure de Paris 
+## 2016--2021: École Normale Supérieure de Paris 
 
-* 2021: Degree of Ecole Normale Supérieure, major in economics. <br>
+* 2021: Degree of École Normale Supérieure, major in economics. <br>
 
 * 2020: Master's degree in mathematics at [<span class="blueText">**Paris I.**</span>](https://www.pantheonsorbonne.fr/) <br>
 

@@ -28,7 +28,7 @@ menu:
           weight: 5
 
 params:
-    description: "I am a Ph.D student in theoretical economics at Paris School of Economics and Ecole Normale Supérieure de Paris"
+    description: "I am a Ph.D student in theoretical economics at Paris School of Economics and École Normale Supérieure de Paris"
     author: Pierre Bardier
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -54,9 +54,9 @@ params:
           enabled: true
           title: Pierre Bardier
           subtitle: "
-          I am a Ph.D student in **theoretical economics** at **[Paris School of Economics](https://www.parisschoolofeconomics.eu/en/)** and **[Ecole Normale Supérieure de Paris.](https://www.ens.psl.eu/)** My research spans **economic design and welfare economics**, with a specific focus on fair division, social choice, voting, and individual decision making. I am extremely happy to work under the supervision of **[Marc Fleurbaey.](https://sites.google.com/site/marcfleurbaey/Home)**<br><br>
+          I am a Ph.D student in **theoretical economics** at **[Paris School of Economics](https://www.parisschoolofeconomics.eu/en/)** and **[École Normale Supérieure de Paris.](https://www.ens.psl.eu/)** My research spans **economic design and welfare economics**, with a specific focus on fair division, social choice, voting, and individual decision making. I am extremely happy to work under the supervision of **[Marc Fleurbaey.](https://sites.google.com/site/marcfleurbaey/Home)**<br><br>
           I had the pleasure to visit twice the department of economics of the **[University of Rochester](https://www.sas.rochester.edu/eco/)** at the invitation of Professor **[William Thomson.](https://sites.google.com/view/williamthomson)** <br><br>
-          Before my Ph.D, I was studying at *[Ecole Normale Supérieure de Paris](https://www.ens.psl.eu/)* for 5 years, during which I completed in particular a **MSc in economics** at *[Paris School of Economics](https://www.parisschoolofeconomics.eu/en/)* and a **MSc in mathematics** at *[Paris-I-Panthéon-Sorbonne.](https://www.pantheonsorbonne.fr/)*
+          Before my Ph.D, I was studying at *[École Normale Supérieure de Paris](https://www.ens.psl.eu/)* for 5 years, during which I completed in particular a **MSc in economics** at *[Paris School of Economics](https://www.parisschoolofeconomics.eu/en/)* and a **MSc in mathematics** at *[Paris-I-Panthéon-Sorbonne.](https://www.pantheonsorbonne.fr/)*
           "
           imageUrl: "Photo site internet 5.JPG"
           imageWidth: 220

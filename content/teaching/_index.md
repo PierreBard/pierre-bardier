@@ -4,7 +4,7 @@ description: ""
 ---
 
 ---
-## Ecole Normale Supérieure de Paris (ENS)
+## École Normale Supérieure de Paris (ENS)
 
 * **Tutorials in microeconomics** for students in their last year of BSc in economics. <br>
   Semesters: Spring 2023, Spring 2024. <br> 
