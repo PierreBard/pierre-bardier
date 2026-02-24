@@ -1,5 +1,6 @@
 ---
 title: "The probability of satisfying axioms: a non-binary perspective on economic design"
+weight: 2
 tags: ["Degree of satisfaction", "Probability of satisfaction", "Ranking of rules", "Performance of rules", "Desirability of axioms", "Compatibility of axioms", "Market design","Voting","Social choice"]
 author: "Pierre Bardier"
 description: "Working paper" 

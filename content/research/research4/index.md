@@ -1,9 +1,10 @@
 ---
 title: "Efficiency-conditional priority to the worst-off"
+weight: 1
 tags: ["Efficiency", "Pareto-Efficiency", "Equity", "Transfer principle", "Social orderings", "Opportunity sets"]
 author: "Pierre Bardier"
 description: "Working paper" 
-summary: "A new efficiency-preserving transfer principle, a family of preference-based social orderings of allocations of multiple commodities." 
+summary: "A new efficiency-preserving transfer principle, a family of preference-based social orderings to evaluate the allocation of ressources in a given economy." 
 #cover:
     #image: "picture degree.png"
     #alt: "Image caption"

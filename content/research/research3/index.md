@@ -1,5 +1,6 @@
 ---
 title: "Hoping for the best while preparing for the worst in the face of uncertainty"
+weight: 3
 tags: ["Decision theory","Incomplete preferences","Multiple selves","Non-obvious manipulability"]
 author: "Pierre Bardier, Bach Dong-Xuan, Van-Quy Nguyen"
 description: "Working paper" 
