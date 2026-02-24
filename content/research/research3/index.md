@@ -1,14 +1,13 @@
 ---
-title: "Hoping for the best while preparing for the worst in the
-face of uncertainty"
+title: "Hoping for the best while preparing for the worst in the face of uncertainty"
 tags: ["Decision theory","Incomplete preferences","Multiple selves","Non-obvious manipulability"]
 author: "Pierre Bardier, Bach Dong-Xuan, Van-Quy Nguyen"
 description: "Working paper" 
 summary: "A new type of incomplete preferences under uncertainty." 
-cover:
-    image: "picture dual self preferences.png"
-    alt: "Image caption"
-    relative: false
+#cover:
+    #image: "picture dual self preferences.png"
+    #alt: "Image caption"
+    #relative: false
 aliases:
   - Hoping_for_the_best_while_preparing_for_the_worst.pdf
 ---

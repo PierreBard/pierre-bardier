@@ -4,10 +4,10 @@ tags: ["Degree of satisfaction", "Probability of satisfaction", "Ranking of rule
 author: "Pierre Bardier"
 description: "Working paper" 
 summary: "A notion of degree of satisfaction of axioms, a criterion to compare rules, a measure of compatibility of axioms." 
-cover:
-    image: "picture degree.png"
-    alt: "Image caption"
-    relative: false
+#cover:
+    #image: "picture degree.png"
+    #alt: "Image caption"
+    #relative: false
 aliases:
   - The_probability_of_satisfying_axioms.pdf
 ---
