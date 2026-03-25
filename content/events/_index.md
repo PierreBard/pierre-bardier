@@ -3,6 +3,18 @@ title: "Events"
 description: ""
 ---
 
+* **[Normative Economics and Economic Policy online Seminar](https://sites.google.com/view/normativeeconomics/home)**<br>
+  Date: March 2026. <br>
+  I had the pleasure to present *Efficiency-conditional priority to the worst-off.*
+
+  <br>
+
+* **[Online seminar of the Center of Decision Choice and Analysis at HSE University of Moscou](https://www.hse.ru/en/DeCAn/)**<br>
+  Date: March 2026. <br>
+  I had the pleasure to present [***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design.</mark>***](../research/research2/The_probability_of_satisfying_axioms.pdf)
+
+  <br>
+
 * **Theory and Organisation seminar in the Paris School of Economics** <br>
   Date: June 2025. <br>
   I had the pleasure to present [***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design.</mark>***](../research/research2/The_probability_of_satisfying_axioms.pdf) 
