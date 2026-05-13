@@ -15,7 +15,7 @@ summary: "A new efficiency-preserving transfer principle, a family of preference
 
 ##### Download
 
-**<mark class="blue">Available soon</mark>**
+**<mark class="blue">Available upon request, coming soon here </mark>**
 
 ---
 
