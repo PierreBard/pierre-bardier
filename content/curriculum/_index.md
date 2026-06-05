@@ -3,7 +3,7 @@ title: "Curriculum"
 description: ""
 ---
 
-## 2021--present: Ph.D in theoretical economics at [<mark class="blue">PSE</mark>](https://www.parisschoolofeconomics.eu/en/) and [<mark class="blue">ENS</mark>](https://www.ens.psl.eu/) under the supervision of [<mark class="blue">Marc Fleurbaey</mark>](https://sites.google.com/site/marcfleurbaey/Home)
+## 2021--2026: Ph.D in theoretical economics at [<mark class="blue">PSE</mark>](https://www.parisschoolofeconomics.eu/en/) and [<mark class="blue">ENS</mark>](https://www.ens.psl.eu/) under the supervision of [<mark class="blue">Marc Fleurbaey</mark>](https://sites.google.com/site/marcfleurbaey/Home)
 
 * June--July 2026: **Scientific visiting** in the [*Institute of Social Sciences*](https://issin.org/) of the [<span class="blueText">**University of Tokyo,**</span>](https://www.u-tokyo.ac.jp/en/) at the invitation of Professor [<span class="blueText">**Susumu Cato.**</span>](https://sites.google.com/site/susumucato/) <br>
 
