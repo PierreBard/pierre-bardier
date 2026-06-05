@@ -5,6 +5,8 @@ description: ""
 
 ## 2021--present: Ph.D in theoretical economics at [<mark class="blue">PSE</mark>](https://www.parisschoolofeconomics.eu/en/) and [<mark class="blue">ENS</mark>](https://www.ens.psl.eu/) under the supervision of [<mark class="blue">Marc Fleurbaey</mark>](https://sites.google.com/site/marcfleurbaey/Home)
 
+* June--July 2026: **Scientific visiting** in the [*Institute of Social Sciences*](https://issin.org/) of the [<span class="blueText">**University of Tokyo,**</span>](https://www.u-tokyo.ac.jp/en/) at the invitation of Professor [<span class="blueText">**Susumu Cato.**</span>](https://sites.google.com/site/susumucato/) <br>
+
 * Aug--Dec 2023 and Oct--Nov 2024: **Two scientific visitings** in the department of economics of the [<span class="blueText">**University of Rochester,**</span>](https://www.sas.rochester.edu/eco/) at the invitation of Professor [<span class="blueText">**William Thomson.**</span>](https://sites.google.com/view/williamthomson) <br>
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "The egalitarian Walrasian rule is subject to obvious manipulations when preferences are linear"
+title: "The genericity of obvious manipulations under the Egalitarian Walrasian rule when preferences are linear"
 weight: 4
 tags: ["Fair allocation", "obvious manipulations", "competitive equilibrium", "Egalitarian Walrasian rule", "linear preferences"]
 author: "Pierre Bardier, Bach Dong-Xuan, Van-Quy Nguyen"
@@ -15,7 +15,7 @@ aliases:
 
 ##### Download
 
-[**<mark class="blue">Paper</mark>**](The_Walrasian_rule_is_OM.pdf)
+[**<mark class="blue">Paper</mark>**](The_genericity_of_obvious_manipulations_under_the_EW_rule.pdf)
 
 ---
 
