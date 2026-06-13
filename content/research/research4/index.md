@@ -15,7 +15,7 @@ summary: "A new efficiency-preserving transfer principle, a family of preference
 
 ##### Download
 
-**<mark class="blue">Available upon request, coming soon here </mark>**
+[**<mark class="blue">Paper</mark>**](Efficiency_conditional_priority_to_the_worst_off.pdf)
 
 ---
 
