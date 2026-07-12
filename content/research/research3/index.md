@@ -15,13 +15,15 @@ aliases:
 
 ##### Download
 
-[**<mark class="blue">Paper</mark>**](Hoping_for_the_best_while_preparing_for_the_worst.pdf)
+[**<mark class="blue">The paper.</mark>**](Hoping_for_the_best_while_preparing_for_the_worst.pdf)      
+
+[*A previous version*](HP_Previous_version.pdf) (written for an asymmetric preference relation, including additional comments) 
 
 ---
 
 ##### Abstract
 
-We propose and axiomatize a new model of incomplete preferences under uncertainty, which we call *hope-and-prepare preferences*. An act *f* is considered more desirable than an act *g* when, and only when, both an optimistic evaluation, computed as the welfare level attained in a best-case scenario, and a pessimistic one, computed as the welfare level attained in a worst-case scenario, rank *f* above *g*. Our comparison criterion involves multiple priors, as best and worst cases are determined among sets of probability distributions. We make the case that, compared to existing incomplete criteria under ambiguity, hope-and-prepare preferences adress the trade-off between conviction and decisiveness in a new way, which is more favorable to decisiveness.
+We propose and axiomatize a new model of incomplete preferences under uncertainty, hope-and-prepare preferences: one act is preferred to another if and only if both its optimistic evaluation ---the welfare level attained in the best-case scenario--- and its pessimistic evaluation — the welfare level attained in the worst-case scenario--- rank it above the other. Both evaluations are computed over sets of probability distributions. We make the case that, compared to existing incomplete criteria under ambiguity, hope-and-prepare preferences address the trade-off between conviction and decisiveness in a new way, which is more favorable to decisiveness. We characterize a completion of an incomplete hope-and-prepare preference relation admitting an (asymmetric) $\alpha$-*maxmin expected utility* representation, in which $\alpha$ is unique. Conversely, given a standard $\alpha$-MEU preference and a fixed value of $\alpha$, we recover the concordant hope-and-prepare preference that it completes.
 
 ---
 
