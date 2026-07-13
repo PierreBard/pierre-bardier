@@ -4,7 +4,11 @@ weight: 1
 tags: ["Efficiency", "Pareto-Efficiency", "Equity", "Transfer principle", "Social orderings", "Opportunity sets"]
 author: "Pierre Bardier"
 description: "Working paper" 
-summary: "A new efficiency-preserving transfer principle, a family of preference-based social orderings to evaluate the allocation of ressources in a given economy." 
+summary: | 
+    A new efficiency-preserving transfer principle, a family of preference-based social orderings to evaluate the allocation of ressources in a given economy. 
+    <br><br>
+
+    Received a **Best Young Scholar Paper Award at the SCW26 Meeting (University of Tokyo).**
 #cover:
     #image: "picture degree.png"
     #alt: "Image caption"
@@ -21,4 +25,6 @@ summary: "A new efficiency-preserving transfer principle, a family of preference
 
 ##### Abstract
 
-We study how to rank multidimensional allocations, over which agents have heterogeneous preferences, according to a new efficiency-preserving transfer principle. The motivation is that in conjunction with efficiency and informational parsimony principles, transfer requirements previously proposed, which ignore the respective efficiency of the pre-and-post-transfer allocations, force society to give absolute priority to the worst-off. The social orderings that we characterize —on the basis of our new transfer axiom, *strong Pareto*, *continuity* and an assumption pertaining to the representation of individual preferences— combine an inequality-neutral ordering and an infinitely inequality-averse ordering, and may display any finite aversion to inequality, except neutrality.
+We study how to rank multidimensional allocations, over which agents have heterogeneous preferences, according to a new efficiency-preserving transfer principle. The motivation is that in conjunction with efficiency and informational parsimony principles, transfer requirements previously proposed, which ignore the respective efficiency of the pre-and-post-transfer allocations, force society to give absolute priority to the worst-off. The social orderings that we characterize —on the basis of our new transfer axiom, *strong Pareto*, *continuity* and an assumption pertaining to the representation of individual preferences— combine an inequality-neutral ordering and an infinitely inequality-averse ordering, and may display any finite aversion to inequality, except neutrality.<br><br>
+
+The paper received a *[Best Young Scholar Paper Award](https://scwsociety.org/Best-Young-Scholar-Paper-Awards-2026.html)* at the *[18th meeting of the Society for Social Choice and Welfare in the University of Tokyo](https://sites.google.com/view/sscw2026)*.
