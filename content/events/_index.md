@@ -3,9 +3,31 @@ title: "Events"
 description: ""
 ---
 
+* **[Hitotsubashi Summer Institute (2026): Microeconomic Theory](https://glecs.hias.hit-u.ac.jp/en/event/hsi2026/)**<br>
+  Date: July 2026. <br>
+  I had the pleasure to present [***<mark class="blue">Efficiency-conditional priority to the worst-off.</mark>***](../research/research4/Efficiency_conditional_priority_to_the_worst_off.pdf)
+
+  <br>
+
+
+* **[Workshop on the Theory of Aggregation in the University of Tokyo (ISS)](https://sites.google.com/view/socialchoicetheoryws/upcoming-workshop)**<br>
+  Date: July 2026. <br>
+  [*Susumu Cato*](https://sites.google.com/site/susumucato/) and myself organized this workshop. I presented [***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design.</mark>***](../research/research2/The_probability_of_satisfying_axioms.pdf)
+
+  <br>
+
+
+* **[18th meeting of the Society for Social Choice and Welfare in the University of Tokyo](https://sites.google.com/view/sscw2026)**<br>
+  Date: June 2026. <br>
+  I had the pleasure to present [***<mark class="blue">Efficiency-conditional priority to the worst-off.</mark>***](../research/research4/Efficiency_conditional_priority_to_the_worst_off.pdf) The paper received a [**Best Young Scholar Paper Award**](https://scwsociety.org/Best-Young-Scholar-Paper-Awards-2026.html).
+
+
+  <br>
+
+
 * **[Normative Economics and Economic Policy online Seminar](https://sites.google.com/view/normativeeconomics/home)**<br>
   Date: March 2026. <br>
-  I had the pleasure to present *Efficiency-conditional priority to the worst-off.*
+  I had the pleasure to present [***<mark class="blue">Efficiency-conditional priority to the worst-off.</mark>***](../research/research4/Efficiency_conditional_priority_to_the_worst_off.pdf)
 
   <br>
 
