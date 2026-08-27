@@ -29,7 +29,7 @@ We propose and axiomatize a new model of incomplete preferences under uncertaint
 
 ##### 
 
-Please visit **[<span class="blueText">**Bach**</span>](https://sites.google.com/view/xuanbachdong/home)** and
+Please visit **[<span class="blueText">**Bach**</span>](https://bachdongxuan.weebly.com/)** and
 **[<span class="blueText">**Van-Quy**</span>](https://sites.google.com/view/vanquy93)**'s websites.
 
 

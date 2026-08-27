@@ -14,11 +14,11 @@ menu:
         - name: Research
           url: research/
           weight: 1
-        - name: Teaching
-          url: teaching/
-          weight: 2
         - name: Events
           url: events/
+          weight: 2
+        - name: Teaching
+          url: teaching/
           weight: 3
         - name: Curriculum
           url: curriculum/
@@ -28,7 +28,7 @@ menu:
           weight: 5
 
 params:
-    description: "I am a Ph.D student in theoretical economics at Paris School of Economics and École Normale Supérieure de Paris"
+    description: "I am a postdoctoral researcher in theoretical economics"
     author: Pierre Bardier
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -54,8 +54,11 @@ params:
           enabled: true
           title: Pierre Bardier
           subtitle: "
-          I recently defended my Ph.D (April 26) in **theoretical economics** at **[Paris School of Economics](https://www.parisschoolofeconomics.eu/en/)** and **[École Normale Supérieure de Paris.](https://www.ens.psl.eu/)** My research spans **economic design and welfare economics**, with a specific focus on fair division, social choice, voting, and individual decision making. I was extremely happy to work under the supervision of **[Marc Fleurbaey.](https://sites.google.com/site/marcfleurbaey/Home)**<br><br>
-          I visited twice the department of economics of the **[University of Rochester](https://www.sas.rochester.edu/eco/)** at the invitation of Professor **[William Thomson.](https://sites.google.com/view/williamthomson)** I also visited the [*Institute of Social Sciences*](https://issin.org/) of the **[University of Tokyo,](https://www.u-tokyo.ac.jp/en/)** at the invitation of Professor **[Susumu Cato.](https://sites.google.com/site/susumucato/)** <br><br>
+          I am a postdoctoral researcher in **theoretical economics** at the **[GATE Lyon Saint-Étienne.](https://www.gate.cnrs.fr/en/)** From September 2027, I will hold an **[FNRS research fellowship](https://www.frs-fnrs.be/en/financements/chercheur-postdoc#cr)** for **three years** at the **[CORE](https://uclouvain.be/en/research-institutes/lidam/core)** in the **[Catholic University of Louvain.](https://uclouvain.be/en)**<br><br>
+          My research spans **economic design and welfare economics** ---with a specific focus on fair division, social choice, voting--- and individual decision making.<br><br>
+
+          I defended my Ph.D in April 26 at **[Paris School of Economics](https://www.parisschoolofeconomics.eu/en/)** and **[École Normale Supérieure de Paris.](https://www.ens.psl.eu/)** I am extremely happy to have worked under the supervision of **[Marc Fleurbaey.](https://sites.google.com/site/marcfleurbaey/Home)** I visited twice the department of economics of the **[University of Rochester](https://www.sas.rochester.edu/eco/)** at the invitation of Professor **[William Thomson.](https://sites.google.com/view/williamthomson)** I also visited the [*Institute of Social Sciences*](https://issin.org/) of the **[University of Tokyo,](https://www.u-tokyo.ac.jp/en/)** at the invitation of Professor **[Susumu Cato.](https://sites.google.com/site/susumucato/)** <br><br>
+          
           Before my Ph.D, I was studying at *[École Normale Supérieure de Paris](https://www.ens.psl.eu/)* for 5 years, during which I completed in particular a **MSc in economics** at *[Paris School of Economics](https://www.parisschoolofeconomics.eu/en/)* and a **MSc in mathematics** at *[Paris-I-Panthéon-Sorbonne.](https://www.pantheonsorbonne.fr/)*
           "
           imageUrl: "Photo site internet 5.JPG"
@@ -65,10 +68,10 @@ params:
           buttons:
             - name: Research
               url: research/
-            - name: Teaching
-              url: teaching/
             - name: Events
               url: events/
+            - name: Teaching
+              url: teaching/
             - name: Curriculum
               url: curriculum/
             - name: Contact

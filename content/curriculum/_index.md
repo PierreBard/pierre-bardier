@@ -3,6 +3,14 @@ title: "Curriculum"
 description: ""
 ---
 
+## 2026--2027: One-year postdoctoral position at the [<mark class="blue">GATE Lyon Saint-Étienne</mark>](https://www.gate.cnrs.fr/en/)
+
+
+## 2027--2030: Incoming three-year [<mark class="blue">FNRS research fellowship</mark>](https://www.frs-fnrs.be/en/financements/chercheur-postdoc#cr) ---[<mark class="blue">CORE (UCLouvain),</mark>](https://uclouvain.be/en/research-institutes/lidam/core) promoted by [<mark class="blue">François Maniquet</mark>](https://uclouvain.be/en/people/francois.maniquet)
+
+
+---
+
 ## 2021--2026: Ph.D in theoretical economics at [<mark class="blue">PSE</mark>](https://www.parisschoolofeconomics.eu/en/) and [<mark class="blue">ENS</mark>](https://www.ens.psl.eu/) under the supervision of [<mark class="blue">Marc Fleurbaey</mark>](https://sites.google.com/site/marcfleurbaey/Home)
 
 * June--July 2026: **Scientific visiting** in the [*Institute of Social Sciences*](https://issin.org/) of the [<span class="blueText">**University of Tokyo,**</span>](https://www.u-tokyo.ac.jp/en/) at the invitation of Professor [<span class="blueText">**Susumu Cato.**</span>](https://sites.google.com/site/susumucato/) <br>

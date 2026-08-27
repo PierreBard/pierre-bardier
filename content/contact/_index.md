@@ -10,12 +10,12 @@ description: ""
 ---
 
 #### Email
-pierre.bardier@ens.psl.eu --- pierre.bardier@psemail.eu
-
+pierre.bardier00@gmail.com
 
 ---
 
 #### Office Address
-48 Boulevard Jourdan, 5ème étage, Ecole Normale Supérieure, 75014 Paris, France
+
+77 rue Michelet, 42100 Saint-Etienne, France.
 
 ---
