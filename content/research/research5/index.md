@@ -3,8 +3,10 @@ title: "The genericity of obvious manipulations under the Egalitarian Walrasian 
 weight: 4
 tags: ["Fair allocation", "obvious manipulations", "competitive equilibrium", "Egalitarian Walrasian rule", "linear preferences"]
 author: "Pierre Bardier, Bach Dong-Xuan, Van-Quy Nguyen"
-description: "Working paper" 
-summary: "The manipulability of the egalitarian Walrasian rule on the linear domain, studied with the notion of obvious manipulation." 
+description: "Working paper"
+summary: >-
+  The manipulability of the egalitarian Walrasian rule on the linear domain, studied with the notion of obvious manipulation.<br><br>
+  Accepted in <span class="blueText"><strong>Economics Letters</strong></span>
 #cover:
     #image: "picture dual self preferences.png"
     #alt: "Image caption"
