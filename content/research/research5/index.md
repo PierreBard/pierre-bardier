@@ -6,7 +6,7 @@ author: "Pierre Bardier, Bach Dong-Xuan, Van-Quy Nguyen"
 description: "Working paper"
 summary: >-
   The manipulability of the egalitarian Walrasian rule on the linear domain, studied with the notion of obvious manipulation.<br><br>
-  Published in <span class="blueText"><strong>Economics Letters</strong></span>
+  Published in <span class="blueText"><strong>Economics Letters</strong></span> (open access)
 #cover:
     #image: "picture dual self preferences.png"
     #alt: "Image caption"
@@ -19,7 +19,7 @@ aliases:
 
 [**<mark class="blue">Last working paper version</mark>**](The_genericity_of_obvious_manipulations_under_the_EW_rule.pdf)
 
-[**<mark class="blue">Publication in Economic letters</mark>**](https://www.sciencedirect.com/science/article/pii/S0165176526004490)
+[**<mark class="blue">Publication in Economic letters</mark>**](https://www.sciencedirect.com/science/article/pii/S0165176526004490) (open access)
 
 ---
 
