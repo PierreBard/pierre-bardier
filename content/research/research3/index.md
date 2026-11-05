@@ -1,10 +1,12 @@
 ---
 title: "Hoping for the best while preparing for the worst in the face of uncertainty"
-weight: 3
+weight: 2
 tags: ["Decision theory","Incomplete preferences","Multiple selves","Non-obvious manipulability"]
 author: "Pierre Bardier, Bach Dong-Xuan, Van-Quy Nguyen"
 description: "Working paper" 
-summary: "A new type of incomplete preferences under uncertainty." 
+summary: >-
+  A new type of incomplete preferences under uncertainty.<br><br>
+  Revise and resubmit in **Journal of Economic Theory**
 #cover:
     #image: "picture dual self preferences.png"
     #alt: "Image caption"
@@ -28,6 +30,8 @@ We propose and axiomatize a new model of incomplete preferences under uncertaint
 ---
 
 ##### 
+
+Revise and resubmit in **Journal of Economic Theory**
 
 Please visit **[<span class="blueText">**Bach**</span>](https://bachdongxuan.weebly.com/)** and
 **[<span class="blueText">**Van-Quy**</span>](https://sites.google.com/view/vanquy93)**'s websites.
