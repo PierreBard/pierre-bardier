@@ -3,6 +3,18 @@ title: "Events"
 description: ""
 ---
 
+* **Seminar in GATE Lyon Saint-Étienne**<br>
+  Date: November 2026. <br>
+  I had the pleasure to present [***<mark class="blue">The probability of satisfying axioms: a non-binary perspective on economic design.</mark>***](../research/research2/The_probability_of_satisfying_axioms.pdf)
+
+  <br>
+
+* **Economic Theory Seminar in Karlsruhe Institute of Technology**<br>
+  Date: November 2026. <br>
+  I had the pleasure to present [***<mark class="blue">Efficiency-conditional priority to the worst-off.</mark>***](../research/research4/Efficiency_conditional_priority_to_the_worst_off.pdf)
+
+  <br>
+
 * **[Hitotsubashi Summer Institute (2026): Microeconomic Theory](https://glecs.hias.hit-u.ac.jp/en/event/hsi2026/)**<br>
   Date: July 2026. <br>
   I had the pleasure to present [***<mark class="blue">Efficiency-conditional priority to the worst-off.</mark>***](../research/research4/Efficiency_conditional_priority_to_the_worst_off.pdf)
